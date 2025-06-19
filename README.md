@@ -1,5 +1,7 @@
 <h1 align="left">Hi 👋, I'm Harikrishnan V B</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harikrishnan14&label=Profile%20views&color=0e75b6&style=flat" alt="harikrishnan14" /> </p>
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_the_wicked_one_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harikrishnan14/) 
 
 # When I code, I rely on:
