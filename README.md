@@ -1,3 +1,6 @@
+<h1 align="left">Hi 👋, I'm Harikrishnan V B</h1>
+<h3 align="left">A passionate frontend developer from India</h3>
+
 # 💫 About Me:
 🔭 I’m currently building responsive, dynamic UIs with React, Next.js, and React Native  <br>👯 Open to collaborating on frontend or full-stack projects focused on performance and UX  <br>🤝 Looking to grow in advanced React patterns and scalable architecture  <br>🌱 I’m currently learning React Native, TypeScript, and AI integration in web apps  <br>💬 Ask me about React, Tailwind CSS, clean UI, and performance optimization  <br>⚡ Fun fact: I turn complex ideas into clean interfaces—and binge dev content like it's a series finale!<br>
 
